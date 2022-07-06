@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/yuki/rust-counter-tutorial/target/wasm32-unknown-unknown/release/build/typenum-5056837f50b86cc9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/yuki/rust-counter-tutorial/target/wasm32-unknown-unknown/release/build/typenum-5056837f50b86cc9/out/op.rs
